@@ -6,6 +6,19 @@ Meetup to show how to create local development enviorments using Vagrant
 1. ![Vagrant](https://www.vagrantup.com/)
    
 # Usage
-<code>git clone https://github.com/lifaguiar/meetup-dev-env.git</code>
+
+```bash
+git clone https://github.com/lifaguiar/meetup-dev-env.git
+```
+
+Then:
+
+```bash
 cd meetup-dev-env
+```
+
+And turn on the config:
+
+```bash
 vagrant up
+```
